@@ -7,9 +7,11 @@ The project demonstrates a production-ready auth system using modern backend pra
 
 This project intentionally limits scope to authentication-related CRUD operations to emphasize security, correctness, and clean backend architecture.
 
-✨ Core Features
 
-🔐 Authentication & Account Management
+
+✨ **Core Features**
+
+🔐 **Authentication & Account Management**
 
 User registration with email verification
 
@@ -29,8 +31,10 @@ Resend email verification support
 
 Role-ready architecture for future expansion
 
-🔗 API Routes
-Authentication Routes (/api/v1/users)
+
+
+🔗 **API Routes**
+**Authentication Routes (/api/v1/users)**
 
 Method	Endpoint	Description
 
@@ -52,7 +56,9 @@ POST	/forgot-password	Request password reset
 
 POST	/reset-password/:token	Reset password
 
-🛠 Tech Stack
+
+
+🛠 **Tech Stack**
 
 Node.js
 
@@ -72,7 +78,9 @@ Mailgen
 
 Nodemailer
 
-🎯 Project Focus
+
+
+🎯 **Project Focus**
 
 This project is designed to demonstrate:
 
