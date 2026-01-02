@@ -6,7 +6,7 @@ Base Campy – Authentication Service is a secure backend API focused on user au
 The project demonstrates a production-ready auth system using modern backend practices such as JWT-based authentication, secure cookies, email verification, and password recovery workflows.
 
 This project intentionally limits scope to authentication-related CRUD operations to emphasize security, correctness, and clean backend architecture.
-
+<br><br><br>
 
 
 ✨ **Core Features**
@@ -31,7 +31,7 @@ Resend email verification support
 
 Role-ready architecture for future expansion
 
-
+<br><br><br>
 
 🔗 **API Routes**
 **Authentication Routes (/api/v1/users)**
@@ -56,7 +56,7 @@ POST	/forgot-password	Request password reset
 
 POST	/reset-password/:token	Reset password
 
-
+<br><br><br>
 
 🛠 **Tech Stack**
 
@@ -77,7 +77,7 @@ crypto
 Mailgen
 
 Nodemailer
-
+<br><br><br>
 
 
 🎯 **Project Focus**
